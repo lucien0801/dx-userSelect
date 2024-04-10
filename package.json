@@ -1,0 +1,16 @@
+{
+  "name": "dx-userSelect",
+  "version": "1.0.0",
+  "description": "dx user select",
+  "main": "index.js",
+  "keywords": ["dx", "user"], 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lucien",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucien0801/dx-userSelect"
+  },
+}
